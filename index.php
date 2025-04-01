@@ -1,3 +1,3 @@
 <?php
- echo "i love dick";
+ echo "i love ";
 ?>
